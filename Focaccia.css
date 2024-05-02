@@ -1,0 +1,23 @@
+#logo-img {
+    width:100px;
+    border-color: peru solid 1px bottom;
+}
+body {
+    margin:20%;
+    margin-top: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#nav-bar {
+    background-color: rgba(162, 162, 35, 0.44);
+}
+#primo-hr {
+    color:yellowgreen solid border
+
+}
+.hr {
+    color:yellowgreen solid border
+}
+#foto-focaccia p {
+    margin-left: 30%;
+
+}
